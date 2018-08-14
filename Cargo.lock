@@ -1,4 +1,4 @@
 [[package]]
-name = "minigrep"
+name = "grepper"
 version = "0.1.0"
 
